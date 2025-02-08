@@ -3,7 +3,7 @@ import React from 'react'
 export function Pagina() {
   return (
     <article className="pagina">
-      <img className="img-pagina" src="/images/yo.jpg" alt="yo" />
+      <img className="img-pagina" src="/mi-web/images/yo.jpg" alt="yo" />
       <div className="info"> 
         <p>
           ¡Hola Amigos! Soy Jaime un Ingeniero en Informática 💻 y desarrollador Full Stack que disfruta creando aplicaciones. <br />
