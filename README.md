@@ -1,8 +1,33 @@
-# React + Vite
+#  Jaime Vergara – Sitio Web Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi sitio web desarrollado en **React**, desplegado en **GitHub Pages**. Aquí encontrarás presentaciones personales, proyectos destacados, habilidades y medios para contactarme.
 
-Currently, two official plugins are available:
+🌐 **Visítalo en línea:** [jaimevergara.github.io/mi-web](https://jaimevergara.github.io/mi-web/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+##  Secciones Destacadas
+
+- **Inicio** – Presentación general.
+- **Acerca de** – Sobre mí y mi trayectoria profesional.
+- **Servicios / Proyectos** – Lo que ofrezco o he desarrollado.
+- **Galería / Team** – Visualizaciones o equipo de trabajo.
+- **Contacto** – Formulario o información de contacto.
+
+---
+
+##  Tecnologías Utilizadas
+
+- **React** (Vite o Create React App, según corresponda)  
+- **Bootstrap 5** para estilos rápidos y responsivos  
+- **Font Awesome** para íconos visuales  
+- **HTML5 / CSS3 / JavaScript** como base de frontend moderno
+
+---
+
+##  Instalación y Ejecución Local
+
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/jaimevergara/mi-web.git
+
