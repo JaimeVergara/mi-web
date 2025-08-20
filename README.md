@@ -30,4 +30,28 @@ Bienvenido a mi sitio web desarrollado en **React**, desplegado en **GitHub Page
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/jaimevergara/mi-web.git
+   ```
+2. Entrá a la carpeta del proyecto:
+    ```bash
+    cd mi-web
+    ```
+3. Instalá las dependencias:
+    ```bash
+    npm install
+    ```
+4. Iniciá el servidor de desarrollo:
+    ```bash
+    npm run dev
+    ```
+5. Abrí en tu navegador.
+
+---
+
+##  Cómo publicar o actualizar en GitHub Pages
+
+Este proyecto está desplegado usando **gh-pages**. Para actualizarlo:
+
+```bash
+npm run build
+npm run deploy
 
