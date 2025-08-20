@@ -6,16 +6,6 @@ Bienvenido a mi sitio web desarrollado en **React**, desplegado en **GitHub Page
 
 ---
 
-##  Secciones Destacadas
-
-- **Inicio** – Presentación general.
-- **Acerca de** – Sobre mí y mi trayectoria profesional.
-- **Servicios / Proyectos** – Lo que ofrezco o he desarrollado.
-- **Galería / Team** – Visualizaciones o equipo de trabajo.
-- **Contacto** – Formulario o información de contacto.
-
----
-
 ##  Tecnologías Utilizadas
 
 - **React** (Vite o Create React App, según corresponda)  
